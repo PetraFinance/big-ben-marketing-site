@@ -1,0 +1,25 @@
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="30" height="30" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-128.000000, -64.000000)">
+            <g id="Group-2" transform="translate(128.000000, 64.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#00A7F7" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" id="Oval">
+                        <g transform="translate(-30.000000, -30.000000)">
+                            <circle fill="#EE4937" cx="27" cy="27" r="27"></circle>
+                            <circle fill="#FFE44F" cx="27" cy="27" r="16"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

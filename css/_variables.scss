@@ -1,0 +1,17 @@
+$font-heading: 'Domaine-Bold', sans-serif;
+$font-body: 'FaktPro-Normal', sans-serif;
+
+@font-face {
+  font-family: 'FaktPro-Normal';
+  src: url('fonts/fakt/FaktPro-Normal.ttf')  format('truetype'),
+}
+
+@font-face {
+  font-family: 'Domaine-Bold';
+  src: url('fonts/domaine/DomaineDisp-Bold.otf')  format('truetype'),
+}
+
+@font-face {
+  font-family: 'Domaine-Regular';
+  src: url('fonts/domaine/DomaineDisp-Regular.otf')  format('truetype'),
+}
